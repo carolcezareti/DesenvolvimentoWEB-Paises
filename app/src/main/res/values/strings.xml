@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Paises</string>
+    <string name="buscar_fila">Buscar Países</string>
+    <string name="botao_buscar">Buscar</string>
+</resources>
